@@ -3,5 +3,6 @@
     "de": "Deutsch",
     "change_locale": "Sprache wechseln",
     "current_locale": "Aktuelle Sprache",
-    "instructions": "Anweisungen"
+    "instructions": "Anweisungen",
+    "go_back": "Zurück"
 }

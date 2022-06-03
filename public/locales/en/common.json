@@ -3,5 +3,6 @@
     "de": "German",
     "change_locale": "Change Language",
     "current_locale": "Current locale",
-    "instructions": "Instructions"
+    "instructions": "Instructions",
+    "go_back": "Go back"
 }
